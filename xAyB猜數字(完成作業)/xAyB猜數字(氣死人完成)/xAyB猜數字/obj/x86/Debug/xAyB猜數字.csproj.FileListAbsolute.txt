@@ -1,0 +1,58 @@
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\bin\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\bin\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Form1.resources
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Properties.Resources.resources
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\My Documents\Visual Studio 2010\Projects\Andy.Yeh\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\My Documents\Downloads\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\My Documents\Downloads\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\bin\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\bin\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Form1.resources
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Properties.Resources.resources
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\David Lee\桌面\xAyB猜數字\xAyB猜數字\xAyB猜數字\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.exe
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.pdb
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Form1.resources
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Properties.Resources.resources
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\作業\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.exe
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.pdb
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Form1.resources
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Properties.Resources.resources
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2012-8月\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.exe
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.pdb
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Form1.resources
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Properties.Resources.resources
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\David Lee\My Documents\Dropbox\Andy Yeh\阿棒\xAyB猜數字(旗艦版)\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.exe
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\bin\Debug\xAyB猜數字.pdb
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.csprojAssemblyReference.cache
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Form1.resources
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.Properties.Resources.resources
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.csproj.GenerateResource.cache
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.csproj.CoreCompileInputs.cache
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.exe
+C:\Users\Bambino\Desktop\xAyB猜數字(完成作業)\xAyB猜數字(氣死人完成)\xAyB猜數字\obj\x86\Debug\xAyB猜數字.pdb
